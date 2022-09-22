@@ -45,8 +45,8 @@ export default function Home() {
 						<div className={styles.username}>Username</div>
 						<input
 							className={styles.textbox}
-							type="text"
-							placeholder="Username"
+							type="email"
+							placeholder="Username@gmail.com"
 							name="username"
 							value={inputs.username}
 							onChange={Change}

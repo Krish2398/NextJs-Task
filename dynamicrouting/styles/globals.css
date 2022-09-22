@@ -20,6 +20,8 @@ details > summary {
 
 * {
 	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
 }
 
 @media (prefers-color-scheme: dark) {
